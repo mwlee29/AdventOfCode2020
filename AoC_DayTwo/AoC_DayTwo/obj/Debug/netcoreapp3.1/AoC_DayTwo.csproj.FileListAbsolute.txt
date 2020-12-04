@@ -1,0 +1,13 @@
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.exe
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.deps.json
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.runtimeconfig.json
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.runtimeconfig.dev.json
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.dll
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\bin\Debug\netcoreapp3.1\AoC_DayTwo.pdb
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.csprojAssemblyReference.cache
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.AssemblyInfoInputs.cache
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.AssemblyInfo.cs
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.dll
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.pdb
+C:\Users\mwlee\source\repos\AdventOfCode2020\AoC_DayTwo\AoC_DayTwo\obj\Debug\netcoreapp3.1\AoC_DayTwo.genruntimeconfig.cache
